@@ -1,5 +1,12 @@
-# Transformer Implementation
+## Attention Is All You Need (Transformer) Implementation
 
-Dive into the heart of modern NLP with this PyTorch-based Transformer implementation. Inspired by ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762), this project showcases a powerful model that leverages self-attention mechanisms to handle sequences efficiently. From token embeddings to multi-head attention and positional encodings, explore how each component works together to capture complex patterns in data. Perfect for those looking to understand and experiment with cutting-edge sequence modeling techniques. Check out the code to see how we bring the revolutionary Transformer architecture to life!
+This repository contains a custom implementation of the Transformer model in PyTorch, inspired by the seminal paper *"Attention Is All You Need"* by Vaswani et al. The Transformer architecture revolutionizes NLP by leveraging self-attention mechanisms, allowing models to capture long-range dependencies and parallelize training. This implementation includes core components such as multi-head self-attention, position-wise feedforward networks, and positional encoding. Designed for clarity and educational purposes, it provides a solid foundation for exploring and extending Transformer-based models.
 
-![Transformer Architecture](images/transformer_architecture.png)
+### Architecture
+
+![Transformer Architecture](path/to/transformer_architecture.png)
+
+### Scaled Dot-Product Attention
+
+![Scaled Dot-Product Attention](path/to/scaled_dot_product_attention.png)
+
