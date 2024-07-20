@@ -4,9 +4,9 @@ This repository contains a custom implementation of the Transformer model in PyT
 
 ### Architecture
 
-![Transformer Architecture](path/to/transformer_architecture.png)
+![Transformer Architecture](assets/arc.png)
 
 ### Scaled Dot-Product Attention
 
-![Scaled Dot-Product Attention](path/to/scaled_dot_product_attention.png)
+![Scaled Dot-Product Attention](assets/Scaled_dot_product.png)
 
